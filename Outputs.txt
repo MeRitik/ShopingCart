@@ -1,0 +1,52 @@
+
+Ind.	Products		Rate
+1.	Dairy Milk		Rs. 40
+2.	Rice			Rs. 95
+3.	Dove Soap		Rs. 45
+4.	Dove Shampoo		Rs. 145
+5.	Nutri Choice Biscuit	Rs. 65
+
+
+Enter Product index and Quantity: 3
+5
+Do you want to add more product?(yes/no)
+y
+
+Ind.	Products		Rate
+1.	Dairy Milk		Rs. 40
+2.	Rice			Rs. 95
+3.	Dove Soap		Rs. 45
+4.	Dove Shampoo		Rs. 145
+5.	Nutri Choice Biscuit	Rs. 65
+
+
+Enter Product index and Quantity: 5
+2
+Do you want to add more product?(yes/no)
+yes
+
+Ind.	Products		Rate
+1.	Dairy Milk		Rs. 40
+2.	Rice			Rs. 95
+3.	Dove Soap		Rs. 45
+4.	Dove Shampoo		Rs. 145
+5.	Nutri Choice Biscuit	Rs. 65
+
+
+Enter Product index and Quantity: 2
+1
+Do you want to add more product?(yes/no)
+n
+		BILL
+1.	Rice		95.0	1	95.0
+2.	Dove Soap		45.0	5	225.0
+3.	Nutri Choice Biscuit		65.0	2	130.0
+Total: 450
+Do you have a promocode?(y/n)
+y
+Enter coupon code: shop50
+		BILL
+1.	Rice		85.5	1	85.5
+2.	Dove Soap		40.5	5	202.5
+3.	Nutri Choice Biscuit		58.5	2	117.0
+Discounted Total Price: 405.0
